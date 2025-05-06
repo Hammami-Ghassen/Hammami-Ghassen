@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🌱 I'm currently a second-year student at the university<br>- 🔭 My specialization is in Business Intelligence (BI)<br>- 🤔 I’m looking for help to get better at coding<br>- 😄 Pronouns: Nothing special they just call me by my name , Ghassen :)<br>- 📫 How to reach me: hammamighassen008@gmail.com<br>- ⚡ Fun fact: No fun fact for today
+
+-🌱 I'm currently a second-year student at the university<br>- 🔭 My specialization is in Business Intelligence (BI)<br>- 🤔 I’m looking for help to get better at coding<br>- 😄 Pronouns: Nothing special they just call me by my name , Ghassen :)<br>- 📫 How to reach me: hammamighassen008@gmail.com<br>- ⚡ Fun fact: No fun fact for today
 
 
 ## 🌐 Socials:
